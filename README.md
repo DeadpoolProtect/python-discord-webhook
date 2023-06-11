@@ -1,11 +1,11 @@
-### Yo, I'm Deadpool.
+### Salut, je suis Deadpool.
 
 [![Discord](https://discord.com/api/guilds/1039248836515868682/widget.png)](https://discord.gg/yrmWeTgbgn) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://alexisbot.fr/)  
 
 
-- I code for fun and play games mostly.
-- My Favorite Programming Language is Javascript.
-- I mostly use [Visual Studio Code](https://code.visualstudio.com/) for coding.
+- Je code pour le plaisir et je joue principalement à des jeux.
+- Mon langage de programmation préféré est JavaScript.
+- J'utilise principalement [Visual Studio Code](https://code.visualstudio.com/) pour coder.
 
 ## Stats.
 
@@ -21,13 +21,13 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadpoolProtect&layout=compact&theme=radical)](https://github.com/DeadpoolProtect)
 
-## My Works.
+## Mes Projets.
 
 - [Alexis BOT](https://alexisbot.fr/)
 
 
 
 
-### Contact me on:
+### Contactez-moi sur:
 
 [<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](https://discord.gg/yrmWeTgbgn)
