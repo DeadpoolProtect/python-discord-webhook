@@ -11,7 +11,7 @@
 
 [![Deadpool github stats](https://github-readme-stats.vercel.app/api?username=DeadpoolProtect&show_icons=true&theme=radical&count_private=false)](https://alexisbot.fr/)
 
-## Languages.
+## Langages.
 
 <p>
 	<a href="https://www.python.org/"><img alt="Python" src = "https://img.shields.io/badge/-Python-000080?logo=Python&logoColor=yellow"/></a>
